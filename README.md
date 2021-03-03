@@ -13,7 +13,7 @@
 ~ Professional
 - 🎓 University of Pikeville ~ Nagoya University of Foreign Studies 名古屋外国語大学
 - 📜 Bachelor's Degree in Computer Science
-- 📫 How to reach me: AllisonMackenzieJohnson@gmail.com
+- 📫 Business and Professional Contact: AllisonMackenzieJohnson@gmail.com
 
 ~ About me
 - ♀️ 26/F 
