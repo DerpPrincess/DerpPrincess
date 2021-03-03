@@ -13,7 +13,7 @@
 ~ Professional
 - 🎓 University of Pikeville ~ Nagoya University of Foreign Studies 名古屋外国語大学
 - 📜 Bachelor's Degree in Computer Science
-- 🌎 Website: http://www.derpprincess.xyz/ 
+- 🌎 Website: https://www.derpprincess.xyz/ 
 - 📫 Business and Professional Contact: AllisonMackenzieJohnson@gmail.com
 
 ~ About me
