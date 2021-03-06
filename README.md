@@ -16,7 +16,7 @@
 - 🌎 Website: https://www.derpprincess.xyz/ 
 - 📫 Business and Professional Contact: AllisonMackenzieJohnson@gmail.com
 
-~ About me
+~ Personal
 - ♀️ 26/F 
 - 😺 Cat Person
 - ✨ Magical Girl
