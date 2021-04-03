@@ -7,24 +7,17 @@
 <img alt="Unreal Engine" src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>&nbsp;<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 
 ### Social
-<img alt="Twitch" src="https://img.shields.io/badge/<DerpPwincess>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>&nbsp;<img alt="Twitter" src="https://img.shields.io/badge/<@DerpPrincessDev>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>&nbsp;<img alt="Discord" src="https://img.shields.io/badge/%3CDerp&nbsp;Princess%231337%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<img alt="Twitch" src="https://img.shields.io/badge/<DerpPwincess>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>&nbsp;<img alt="Twitter" src="https://img.shields.io/badge/<@DerpPrincessNya>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>&nbsp;<img alt="Discord" src="https://img.shields.io/badge/%3CDerp&nbsp;Princess%231337%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 
 ### About Me
 ~ Professional
 - 🎓 University of Pikeville ~ Nagoya University of Foreign Studies 名古屋外国語大学
 - 📜 Bachelor's Degree in Computer Science
-- 🌎 Website: https://www.derpprincess.xyz/ 
 - 📫 Business and Professional Contact: AllisonMackenzieJohnson@gmail.com
+- 🌎 Portfolio Website: TBD...
 
 ~ Personal
-- ♀️ 26/F 
 - 😺 Cat Person
 - ✨ Magical Girl
 - 🎮 Video Game Dev
-- 😄 Pronouns: She/Her
-- 🏳️‍🌈 LGBTQIA+ Friendly
-
-~ What I'm doing
-- 🔭 I’m currently working on: Professional Life
-- 🌱 I’m currently learning: Everything
-- 💬 Ask me about: Game Development
+- 🌎 My Website: https://www.derpprincess.xyz/
