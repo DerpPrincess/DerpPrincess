@@ -2,12 +2,6 @@
 
 <div align="center">
   
-## Langauges, Frameworks, and Tools
-
-</div>
-
-<div align="center">
-  
 ### Web Development
 
 </div>
