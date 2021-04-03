@@ -18,7 +18,7 @@
 
 <div align="center">Game Development and Misc Tools</div>
 <br/>
-<img alt="Unreal Engine" src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>&nbsp;<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<div><img alt="Unreal Engine" src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>&nbsp;<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></div>
 
 <br/>
 
