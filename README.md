@@ -39,7 +39,6 @@
 - 📜 Bachelor's Degree in Computer Science
 - 📫 Business and Professional Contact: AllisonMackenzieJohnson@gmail.com
 - 🌎 Portfolio Website: https://derpprincess.github.io/
-- 🔪 Lead Web Developer and System Administrator of online RPG https://wretchedorder.com/
 - 🐕 Lead Web Developer for https://noglitchesallowed.org/ 
 - 😊 Staff for No Glitches Allowed Charity Events hosted at https://twitch.tv/SpeedRunsLive
 
