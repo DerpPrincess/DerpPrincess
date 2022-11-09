@@ -40,8 +40,7 @@
 - 📜 Bachelor's Degree in Computer Science
 - 📫 Business and Professional Contact: AllisonMackenzieJohnson@gmail.com
 - 🌎 Portfolio Website: https://derpprincess.github.io/
-- 🪄 Full Time Consultant for Williams-Sonoma, Inc.
-- 🐕 Lead Web Developer for https://noglitchesallowed.org/ 
+- 🐕 Lead Web Developer for No Glitches Allowed Charity
 - 😊 Staff for No Glitches Allowed Charity Events hosted at https://twitch.tv/SpeedRunsLive
 
 ### Personal
