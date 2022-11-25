@@ -39,7 +39,7 @@
 - 🎓 University of Pikeville ~ Nagoya University of Foreign Studies 名古屋外国語大学
 - 📜 Bachelor's Degree in Computer Science
 - 📫 Business and Professional Contact: AllisonMackenzieJohnson@gmail.com
-- 🌎 Portfolio Website: https://derpprincess.github.io/
+- 🌎 Portfolio Website: AllisonMackenzie.io/
 - 🐕 Lead Web Developer for No Glitches Allowed Charity
 - 😊 Staff for No Glitches Allowed Charity Events hosted at https://twitch.tv/SpeedRunsLive
 
