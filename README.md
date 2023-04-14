@@ -35,7 +35,7 @@
 <div><img alt="Twitch" src="https://img.shields.io/badge/<Derp_Princess_>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>&nbsp;<img alt="Twitter" src="https://img.shields.io/badge/<@Derp_Princess_>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>&nbsp;<img alt="Discord" src="https://img.shields.io/badge/%3CDerp&nbsp;Princess%231337%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></div>
 
 ### Professional
-- 💻 Developer II at Nexient LLC., Ann Arbor Product Delivery Center
+- 💻 ???
 - 🎓 University of Pikeville ~ Nagoya University of Foreign Studies 名古屋外国語大学
 - 📜 Bachelor's Degree in Computer Science
 - 📫 Business and Professional Contact: AllisonMackenzieJohnson@gmail.com
