@@ -8,9 +8,10 @@
 <p>Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. I utilize my skills for Web Development, Game Development, Mobile Development, as well as even tinkering with Artifical Intelligence and Machine Learning. Sometimes, I play with art.</p>
 </div>
 
+## Skills
 <div align="center">
   <details open>
-    <summary>Click here to show/collapse all</summary>
+    <summary>Click here to show/collapse skills section</summary>
     <details open>
       <summary>Programming Languages</summary>
       <img alt="Programming Languages" src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,cs,go,lua,)" />
