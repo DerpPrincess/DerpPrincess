@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. I utilize my skills for Web Development, Game Development, Mobile Development, as well as even tinkering with Artifical Intelligence and Machine Learning. Sometimes, I play with art.
+<p>Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. I utilize my skills for Web Development, Game Development, Mobile Development, as well as even tinkering with Artifical Intelligence and Machine Learning. Sometimes, I play with art.</p>
 </div>
 
 ## Skills
@@ -49,16 +49,13 @@ Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. 
   <img alt="Art" src="https://skillicons.dev/icons?i=ae,blender,ps" />
 </details>
 
-
-
-
-<details open>
-  <summary>Additional Information</summary>
+## Portfolio
+<div align="center">
   <ul>
-    <li>x</li>
-    <li>x</li>
-    <li>x</li>
-    <li>x</li>
-    <li>x</li>
+    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc.</li>
+    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc.</li>
+    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc.</li>
+    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc.</li>
   </ul>
-</details>
+  <p>If you'd like to learn more about me, please visit my portfolio at https://AllisonMackenzie.io/</p>
+</div>
