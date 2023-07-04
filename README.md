@@ -16,12 +16,12 @@ Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. 
 
 <details open>
   <summary>Program Development</summary>
-  <img alt="Program Development" src="https://skillicons.dev/icons?i=nodejs,tensorflow,)" />
+  <img alt="Program Development" src="https://skillicons.dev/icons?i=nodejs,pytorch,tensorflow,)" />
 </details>
 
 <details open>
   <summary>Web Development</summary>
-  <img alt="Web Development" src="https://skillicons.dev/icons?i=react,vue,vercel,redux,html,css,sass,tailwind,spring,maven,mongodb,mysql,postgres,postman)" />
+  <img alt="Web Development" src="https://skillicons.dev/icons?i=react,vue,vercel,vite,redux,html,css,sass,tailwind,spring,maven,mongodb,mysql,postgres,postman)" />
 </details>
 
 <details open>
@@ -36,7 +36,7 @@ Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. 
 
 <details open>
   <summary>Misc Development</summary>
-  <img alt="Misc Development" src="https://skillicons.dev/icons?i=bots,discord,figma,firebase,git,github,gitlab,eclipse,idea,visualstudio,vscode,jenkins,jest,netlify,nextjs,powershell" />
+  <img alt="Misc Development" src="https://skillicons.dev/icons?i=bots,discord,docker,figma,firebase,git,github,gitlab,eclipse,idea,visualstudio,vscode,jenkins,jest,netlify,nextjs,powershell,md,graphql" />
 </details>
 
 <details open>
