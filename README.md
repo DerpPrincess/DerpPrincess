@@ -26,27 +26,27 @@ Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. 
 
 <details open>
   <summary>Game Development</summary>
-  <img alt="Game Development" src="https://skillicons.dev/icons?i=unity,unreal)" />
+  <img alt="Game Development" src="https://skillicons.dev/icons?i=unity,unreal" />
 </details>
 
 <details open>
   <summary>Mobile Development</summary>
-  <img alt="Mobile Development" src="https://skillicons.dev/icons?i=swift)" />
+  <img alt="Mobile Development" src="https://skillicons.dev/icons?i=swift" />
 </details>
 
 <details open>
   <summary>Misc Development</summary>
-  <img alt="Misc Development" src="https://skillicons.dev/icons?i=bots,discord,figma,firebase,git,github,gitlab,eclipse,idea,visualstudio,vscode,jenkins,jest,netlify,nextjs,powershell)" />
+  <img alt="Misc Development" src="https://skillicons.dev/icons?i=bots,discord,figma,firebase,git,github,gitlab,eclipse,idea,visualstudio,vscode,jenkins,jest,netlify,nextjs,powershell" />
 </details>
 
 <details open>
   <summary>Cloud</summary>
-  <img alt="Cloud" src="https://skillicons.dev/icons?i=aws,azure)" />
+  <img alt="Cloud" src="https://skillicons.dev/icons?i=aws,azure" />
 </details>
 
 <details open>
   <summary>Art</summary>
-  <img alt="Art" src="https://skillicons.dev/icons?i=ae,blender,ps)" />
+  <img alt="Art" src="https://skillicons.dev/icons?i=ae,blender,ps" />
 </details>
 
 
