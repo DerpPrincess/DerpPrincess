@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. I utilize my skills for Web Development, Game Development, Mobile Development, as well as even tinkering with Artifical Intelligence and Machine Learning. Sometimes, I tinker with art.
+Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. I utilize my skills for Web Development, Game Development, Mobile Development, as well as even tinkering with Artifical Intelligence and Machine Learning. Sometimes, I play with art.
 </div>
 
 ## Skills
