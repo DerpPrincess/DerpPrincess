@@ -20,7 +20,7 @@
 
 ## Skills
 <div align="center">
-  <details open>
+  <details>
     <summary>Click here to show/collapse skills section</summary>
     <details open>
       <summary>Programming Languages</summary>
