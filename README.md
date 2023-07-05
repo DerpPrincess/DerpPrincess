@@ -44,7 +44,7 @@
 
   <details open>
     <summary>Mobile Development</summary>
-    <img alt="Mobile Development" src="https://skillicons.dev/icons?i=swift" />
+    <img alt="Mobile Development" src="https://skillicons.dev/icons?i=react,swift" />
   </details>
 
   <details open>
