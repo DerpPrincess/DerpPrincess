@@ -8,6 +8,16 @@
 <p>Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. I utilize my skills for Web Development, Game Development, Mobile Development, as well as even tinkering with Artifical Intelligence and Machine Learning. Sometimes, I play with art.</p>
 </div>
 
+## Portfolio
+<div align="center">
+  <p>A brief overview about me! If you'd like to learn more about me in depth, please visit my portfolio at https://AllisonMackenzie.io/</p>
+  <ul>
+    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc. to sale budnles of items for complex PIP pages and servicing of swatches to customers, with analytics.</li>
+    <li>Refined Minimum Viable Product for Lume Cannabis, Co. to improve performance, UI/UX, and ease of sales.</li>
+    <li>Created intricate and highly detailed sophisticated Discord bot, Neko Bot which operates large Discord servers. Currently implementing AI/ML to upgrade her to "NekokawAIi" using Tensorflow.</li>
+  </ul>
+</div>
+
 ## Skills
 <div align="center">
   <details open>
@@ -52,15 +62,4 @@
     <img alt="Art" src="https://skillicons.dev/icons?i=ae,blender,ps" />
   </details>
   </details>
-</div>
-
-## Portfolio
-<div align="center">
-  <ul>
-    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc.</li>
-    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc.</li>
-    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc.</li>
-    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc.</li>
-  </ul>
-  <p>If you'd like to learn more about me, please visit my portfolio at https://AllisonMackenzie.io/</p>
 </div>
