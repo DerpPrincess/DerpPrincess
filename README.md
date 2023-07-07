@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<p>Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. I've utilized my skills professionally for Web Development. Additionally, I also love Game Development, Mobile Development, as well as tinkering with Artifical Intelligence and Machine Learning. Sometimes, I play with art.</p>
+<p>Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. My core focus professionally has been with Web Development, where I've utilized my skills professionally using JavaScript/TypeScript frameworks React and Vue. Additionally, I also love Game Development (Unreal Engine and Unity), Mobile Development ((React, Swift), as well as tinkering with Artifical Intelligence and Machine Learning (Tensorflow, PyTorch, OpenAI). Sometimes, I play with art.</p>
 </div>
 
 ## Portfolio
