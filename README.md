@@ -14,7 +14,7 @@
   <ul>
     <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc. to sale budnles of items for complex PIP pages and servicing of swatches to customers, with analytics.</li>
     <li>Refined Minimum Viable Product for Lume Cannabis, Co. to improve performance, UI/UX, and ease of sales.</li>
-    <li>Created intricate and highly detailed sophisticated Discord bot, Neko Bot which operates large Discord servers. Currently implementing AI/ML to upgrade her to "KawAIi Neko" using Tensorflow.</li>
+    <li>Created intricate and highly detailed sophisticated Discord bot, Neko Bot which operates large Discord servers. Currently implementing AI/ML to upgrade her to "mArI" using Tensorflow.</li>
   </ul>
 </div>
 
