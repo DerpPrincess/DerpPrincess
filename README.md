@@ -1,10 +1,6 @@
 # ![64f0b87f-34a1-4cdb-b71a-06aad0eb7bc7](https://github.com/DerpPrincess/derpprincess/assets/36901824/cc4789e8-12b3-47df-8d6f-29afff7d7862)
 
 <div align="center">
-  <img alt="character icon" src="https://github.com/DerpPrincess/derpprincess/assets/36901824/1e1994b4-ec82-45fb-9ad4-09638d783cdd" width="40%"/>
-</div>
-
-<div align="center">
 <p>Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. My core focus professionally has been with Web Development, where I've utilized my skills professionally using JavaScript/TypeScript frameworks React and Vue. Additionally, I also love Game Development (Unreal Engine and Unity), Mobile Development ((React, Swift), as well as tinkering with Artifical Intelligence and Machine Learning (Tensorflow, PyTorch, OpenAI). Sometimes, I play with art.</p>
 </div>
 
