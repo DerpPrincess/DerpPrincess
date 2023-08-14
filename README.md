@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎀Allison Mackenzie🎀&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎀Derp Princess🎀
+# ![64f0b87f-34a1-4cdb-b71a-06aad0eb7bc7](https://github.com/DerpPrincess/derpprincess/assets/36901824/cc4789e8-12b3-47df-8d6f-29afff7d7862)
 
 <div align="center">
   <img alt="character icon" src="https://github.com/DerpPrincess/derpprincess/assets/36901824/1e1994b4-ec82-45fb-9ad4-09638d783cdd" width="40%"/>
