@@ -8,7 +8,7 @@
 <div align="center">
   <p>A brief overview about me! If you'd like to learn more about me in depth, please visit my portfolio at https://AllisonMackenzie.io/</p>
   <ul>
-    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc. to sale budnles of items for complex PIP pages and servicing of swatches to customers, with analytics.</li>
+    <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc. to sale bundles of items for complex PIP pages and servicing of swatches to customers, with analytics.</li>
     <li>Refined Minimum Viable Product for Lume Cannabis, Co. to improve performance, UI/UX, and ease of sales.</li>
     <li>Created intricate and highly detailed sophisticated Discord bot, Neko Bot which operates large Discord servers. Currently implementing AI/ML to upgrade her to "mArI" using Tensorflow.</li>
   </ul>
