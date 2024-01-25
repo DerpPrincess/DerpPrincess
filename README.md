@@ -1,10 +1,7 @@
 # ![64f0b87f-34a1-4cdb-b71a-06aad0eb7bc7](https://github.com/DerpPrincess/derpprincess/assets/36901824/cc4789e8-12b3-47df-8d6f-29afff7d7862)
 
 <div align="center">
-<p>Hello, I'm Allison! I'm a Full Stack Software Engineer and Polyglot programmer. My core focus professionally has been with Web Development, where I've utilized my skills professionally using JavaScript/TypeScript frameworks React and Vue. Additionally, I also love Game Development (Unreal Engine and Unity), Mobile Development ((React, Swift), as well as tinkering with Artifical Intelligence and Machine Learning (Tensorflow, PyTorch, OpenAI). Sometimes, I play with art.</p>
-
-<p>I am the Lead maintainer of the MediEvil Decompilation Project.</p>
-</div>
+<p>Hello, I'm Allison! I'm a Software Engineer and my core focus professionally has been with Web Development, where I've utilized my skills professionally using JavaScript/TypeScript frameworks React and Vue. Additionally, I also love Game Development (Unreal Engine and Unity). Additionally, I'm a lover of the arts and utilize my time in entertainment.</p>
 
 ## Portfolio
 <div align="center">
@@ -12,52 +9,7 @@
   <ul>
     <li>Various large scale features for Fortune 500 eCommerce company, Williams-Sonoma, Inc. to sale bundles of items for complex PIP pages and servicing of swatches to customers, with analytics.</li>
     <li>Refined Minimum Viable Product for Lume Cannabis, Co. to improve performance, UI/UX, and ease of sales.</li>
-    <li>Created intricate and highly detailed sophisticated Discord bot, Neko Bot which operates large Discord servers. Currently implementing AI/ML to upgrade her to "mArI" using Tensorflow.</li>
+    <li>Catered to needs of freelance clientele, from individuals to small companies needing that extra hand, even aiding universities from time to time.</li>
+    <li>Created intricate and highly detailed sophisticated Discord bot which operates large Discord servers.</li>
   </ul>
-</div>
-
-## Skills
-<div align="center">
-  <details>
-    <summary>Click here to show/collapse skills section</summary>
-    <details open>
-      <summary>Programming Languages</summary>
-      <img alt="Programming Languages" src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,cs,go,lua,)" />
-    </details>
-
-  <details open>
-    <summary>Program Development</summary>
-    <img alt="Program Development" src="https://skillicons.dev/icons?i=nodejs,pytorch,tensorflow,)" />
-  </details>
-
-  <details open>
-    <summary>Web Development</summary>
-    <img alt="Web Development" src="https://skillicons.dev/icons?i=react,vue,vercel,vite,redux,html,css,sass,tailwind,spring,maven,mongodb,mysql,postgres,postman)" />
-  </details>
-
-  <details open>
-    <summary>Game Development</summary>
-    <img alt="Game Development" src="https://skillicons.dev/icons?i=unity,unreal" />
-  </details>
-
-  <details open>
-    <summary>Mobile Development</summary>
-    <img alt="Mobile Development" src="https://skillicons.dev/icons?i=react,swift" />
-  </details>
-
-  <details open>
-    <summary>Misc Development</summary>
-    <img alt="Misc Development" src="https://skillicons.dev/icons?i=bots,discord,docker,figma,firebase,git,github,gitlab,eclipse,idea,visualstudio,vscode,jenkins,jest,netlify,nextjs,powershell,md,graphql" />
-  </details>
-
-  <details open>
-    <summary>Cloud</summary>
-    <img alt="Cloud" src="https://skillicons.dev/icons?i=aws,azure" />
-  </details>
-
-  <details open>
-    <summary>Art</summary>
-    <img alt="Art" src="https://skillicons.dev/icons?i=ae,blender,ps" />
-  </details>
-  </details>
 </div>
