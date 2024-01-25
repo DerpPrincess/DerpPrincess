@@ -1,4 +1,5 @@
-# ![64f0b87f-34a1-4cdb-b71a-06aad0eb7bc7](https://github.com/DerpPrincess/derpprincess/assets/36901824/cc4789e8-12b3-47df-8d6f-29afff7d7862)
+![1705699053961](https://github.com/AllisonMackenzie/allisonmackenzie/assets/36901824/7db213c6-037d-42cd-822b-c61dd391fa37)
+
 
 <div align="center">
 <p>Hello, I'm Allison! I'm a Software Engineer and my core focus professionally has been with Web Development, where I've utilized my skills professionally using JavaScript/TypeScript frameworks React and Vue. Additionally, I also love Game Development (Unreal Engine and Unity). Additionally, I'm a lover of the arts and utilize my time in entertainment.</p>
