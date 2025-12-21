@@ -1,1 +1,1 @@
-Harro :)
+<div align="center">Harro :)</div>
