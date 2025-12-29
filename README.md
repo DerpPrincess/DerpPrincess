@@ -17,7 +17,7 @@ Below are the tools of my trade
 ## Web
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></code>
-<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original-wordmark.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
 
 ## Mixed / Backend
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
