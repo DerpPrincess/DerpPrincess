@@ -1,10 +1,8 @@
-<div align="center">Hello!</div>
-<div align="center">Welcome to my GitHub page! ♥</div>
+# Welcome to my GitHub page 😸♥
 
-<div align="center">People online call me Zoe; You probably know me in various online communities!</div>
-<div align="center">Professionally, I'm a Software Engineer. My hobbies, outside of gaming, of course, are being an Artist and an Entertainer!</div>
+I'm a professional Software Engineer; but I double as a hobbyist Artist and Entertainer.
 
-<p>I work with the following technologies!</p>
-<ul>
-  <li>React</li>
-</ul>
+Below are the tools of my trade (in no particular order of preference)
+
+## Cloud
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
