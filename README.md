@@ -2,8 +2,6 @@
 
 I'm a professional Software Engineer; but I double as a hobbyist Artist and Entertainer!
 
-Below are the tools of my trade
-
 ## Languages
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
